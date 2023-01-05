@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "358460428223",
+    "project_id": "medret-e1960",
+    "storage_bucket": "medret-e1960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358460428223:android:a6ab7fc6654d8d3c869b0a",
+        "android_client_info": {
+          "package_name": "au.com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358460428223-13ims0n3te9j35vs5vlnrjnle86m1at9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaobqPuMCb6PuK_ucy9tl508_gH3SuWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358460428223-13ims0n3te9j35vs5vlnrjnle86m1at9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358460428223:android:362ec3ad16e35c3e869b0a",
+        "android_client_info": {
+          "package_name": "com.medret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358460428223-13ims0n3te9j35vs5vlnrjnle86m1at9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaobqPuMCb6PuK_ucy9tl508_gH3SuWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358460428223-13ims0n3te9j35vs5vlnrjnle86m1at9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
